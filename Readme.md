@@ -9,4 +9,5 @@
 * sở thích: Cắm trại , nghe nhạc , du lịch
 * case1
 *sua lan 2
+* conflict
 
