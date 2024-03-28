@@ -1,4 +1,5 @@
 # vc 
+![img](https://github.com/nguyenngoccuong16122002/2011064795-nguyenngoccuong/assets/80567562/21a24d39-8265-4310-965c-2c778d986e0c)
 # thông tin
 * cá nhân
 * MSSV: 2011064795
